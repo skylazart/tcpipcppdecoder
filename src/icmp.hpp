@@ -1,13 +1,6 @@
 #ifndef ICMP_H
 #define ICMP_H
 
-/**
- * TrustWave Challenge
- * by: Felipe Cerqueira (skylazart@gmail.com) 
- * Date: 14/Nov/2015
- */
-
-
 /*
   https://nmap.org/book/man-port-scanning-techniques.html
   
